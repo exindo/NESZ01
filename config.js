@@ -3,7 +3,7 @@ global.linkGC = ['https://bit.ly/3AQZZnw', 'GAADA']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
   '994403695631': {
-  	name : 'Ig : vnesz_gt', 
+  	name : 'Ig : vnesz_gt 😎', 
       isCreator : true, 
   }, 
   '6281390658325': {

@@ -40,7 +40,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github: Saya Recode Aja Mang
+│ Github: Tulis *#sc*
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',

@@ -2,11 +2,12 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://bit.ly/3AQZZnw', 'GAADA']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '994403695631': {
-  	name : 'Ig : vnesz_gt 😎', 
+  '6285888213719': {
+  	name : 'Fth Gamteng', 
+      isDev : true, 
       isCreator : true, 
   }, 
-  '6281390658325': {
+  '6285894217616': {
   	name : 'Creator Games-Wabot', 
       isDev : true, 
       isCreator: true, 
@@ -17,19 +18,19 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6285888213719': { // put your number here
+  '628588821379': { // put your number here
     name: 'FTH PLAYZ || OWNER ZANIXON',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
-    isCreator: true, // if true this number will send if user use command /owner or /creator
+    isCreator: false, // if true this number will send if user use command /owner or /creator
   },
-  '6281933389040': {
+  '628193338940': {
     name: 'Ferly',
     isDev: true, 
     isReport: true, // if true this number will send if user use command /report or /join
-    isCreator: true,
+    isCreator: false,
  }, 
-  '6285719381591': {
+  '6285894217616': {
     isReport: true
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
